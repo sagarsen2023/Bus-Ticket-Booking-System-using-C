@@ -8,7 +8,7 @@
 
 # Update v1.0:
 1. Fixed the getLoginDetails() function issue.
-2. Fixed the #.exe# file is treated as Trojan by Windows Defender.
+2. Fixed the .exe file is treated as Trojan by Windows Defender.
 3. Fixed the binary file which stores the username and password. 
 
 If you find any error please let me know.
