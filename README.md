@@ -7,8 +7,11 @@
 5. A begin(_eer friendly project.
 
 # Update v1.0:
-1. Fixed the getLoginDetails() function issue.
-2. Fixed the .exe file is treated as Trojan by Windows Defender.
+1. Fixed the **getLoginDetails()** function issue.
+2. Fixed the .exe file is treated as **Trojan** by Windows Defender.
 3. Fixed the binary file which stores the username and password. 
 
+# Note: 
+When you download this file, **Microsoft Edge** will inform you that **it is not frequently downloaded**. If you're using Microsoft Edge, you can still select Keep.
+If you are still unsure, you can download the **main.c** file and run it on your own.
 If you find any error please let me know.
