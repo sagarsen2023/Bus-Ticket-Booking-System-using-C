@@ -4,7 +4,7 @@
 2. A bus's basic ticketing system. There are some written presets, but the representative can also specify passenger's seat information.
 3. Requires one time setup od username and password.
 4. Recursions, File Handling (Binary and normal text file) user here.
-5. A begin(_eer friendly project.
+5. A begineer friendly project.
 
 ## Update v1.0: Changelog: 
 1. Fixed the **getLoginDetails()** function issue.
